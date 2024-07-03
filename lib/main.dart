@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:remove_background/main_menu/view/main_menu_view.dart';
 import 'package:remove_background/uplode/remove_background_view.dart';
 
 void main() {
