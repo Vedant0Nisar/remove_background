@@ -2,16 +2,55 @@
 
 A new Flutter project.
 
+# Demo
+
+![Here it show how to remove background ](video/demo_video.mov)
+
+
+
+# Remove-Background-from-Image
+
+This Flutter application allows users to upload an image and remove its background using the `remove.bg` API. 
+
+## Features
+
+- Upload images from the device gallery or camera.
+- Remove the background of the uploaded image using the `remove.bg` API.
+- Display the processed image with the background removed.
+- Save the processed image to the device.
+
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+These instructions will help you set up and run the project on your local machine for development and testing purposes.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Ensure you have the following installed:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Remove-Background-from-Image
+- [Flutter](https://flutter.dev/docs/get-started/install) 
+- [Dart](https://dart.dev/get-dart) (comes with Flutter)
+- A code editor (e.g., [VS Code](https://code.visualstudio.com/), [Android Studio](https://developer.android.com/studio))
+
+### Installation
+
+1. **Clone the repository:**
+
+    ```sh
+    git clone "link"
+    ```
+
+2. **Install dependencies:**
+
+    ```sh
+    flutter pub get
+    ```
+
+3. **Set up the `remove.bg` API key:**
+
+    - Add your `remove.bg` API key :
+
+4. **Run the application:**
+
+    ```sh
+    flutter run
+    ```
